@@ -8,7 +8,7 @@ namespace Fluxy.Data.Mapping.Users
         public UserRoleMap()
         {
             this.ToTable("UserRole");
-            this.HasKey(p => p.Id);
+            this.HasKey(p => p.Id); 
             this.Property(ur => ur.Name).IsRequired();
         }
     }
