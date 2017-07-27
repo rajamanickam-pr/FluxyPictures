@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using Fluxy.Data.Model.Common;
 
-namespace SampleArch.Repository
+namespace Fluxy.Repositories.Common
 {
     public interface IGenericRepository<T> where T : BaseEntity
     {

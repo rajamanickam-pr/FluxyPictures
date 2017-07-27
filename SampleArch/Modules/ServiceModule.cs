@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Web;
 using Autofac;
 
-namespace SampleArch.Modules
+namespace Fluxy.Web.Modules
 {
     public class ServiceModule : Autofac.Module
     {
@@ -13,7 +13,7 @@ namespace SampleArch.Modules
         protected override void Load(ContainerBuilder builder)
         {
 
-            builder.RegisterAssemblyTypes(Assembly.Load("SampleArch.Service"))
+            builder.RegisterAssemblyTypes(Assembly.Load("Fluxy.Services"))
 
                       .Where(t => t.Name.EndsWith("Service"))
 

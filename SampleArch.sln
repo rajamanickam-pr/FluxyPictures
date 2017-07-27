@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArch", "SampleArch\SampleArch.csproj", "{1CAE3387-10C6-49F3-9FE5-65808CFE690C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxy.Web", "SampleArch\Fluxy.Web.csproj", "{1CAE3387-10C6-49F3-9FE5-65808CFE690C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxy.Data", "SampleArch.Model\Fluxy.Data.csproj", "{AFC9D48B-D6FA-41E6-84BC-A43713B5E8B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArch.Repository", "SampleArch.Repository\SampleArch.Repository.csproj", "{AFC7D5EC-1324-49D5-B1E6-7239DC54220B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxy.Repositories", "SampleArch.Repository\Fluxy.Repositories.csproj", "{AFC7D5EC-1324-49D5-B1E6-7239DC54220B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArch.Service", "SampleArch.Service\SampleArch.Service.csproj", "{47285FC7-3A39-41DB-A30C-BBB386F37636}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxy.Services", "SampleArch.Service\Fluxy.Services.csproj", "{47285FC7-3A39-41DB-A30C-BBB386F37636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxy.Core", "Fluxy.Core\Fluxy.Core.csproj", "{0C65F5A8-741B-42BA-810E-1527202125CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{47285FC7-3A39-41DB-A30C-BBB386F37636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47285FC7-3A39-41DB-A30C-BBB386F37636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47285FC7-3A39-41DB-A30C-BBB386F37636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C65F5A8-741B-42BA-810E-1527202125CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C65F5A8-741B-42BA-810E-1527202125CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C65F5A8-741B-42BA-810E-1527202125CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C65F5A8-741B-42BA-810E-1527202125CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,9 @@
-﻿using SampleArch.Repository;
-using Fluxy.Data.EntityModels.Common;
+﻿using Fluxy.Data.EntityModels.Common;
+using Fluxy.Services.Common;
+using Fluxy.Repositories.Countries;
+using Fluxy.Repositories.Common;
 
-namespace SampleArch.Service
+namespace Fluxy.Services.Countries
 {
     public class CountryService : EntityService<Country>, ICountryService
     {

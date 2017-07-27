@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using Autofac.Integration.Mvc;
 using Autofac;
-using SampleArch.Modules;
+using Fluxy.Web.Modules;
 
-namespace SampleArch
+namespace Fluxy.Web
 {
     public class MvcApplication : System.Web.HttpApplication
     {
@@ -29,6 +29,11 @@ namespace SampleArch
             var container = builder.Build();
 
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
+        }
+
+        protected void Application_Error(Object sender, EventArgs e)
+        {
+            var exception = Server.GetLastError();
         }
     }
 }

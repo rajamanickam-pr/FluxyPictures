@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using SampleArch.Repository;
 using Fluxy.Data.Model.Common;
+using Fluxy.Repositories.Common;
 
-namespace SampleArch.Service
+namespace Fluxy.Services.Common
 {
     public abstract class EntityService<T> : IEntityService<T> where T : BaseEntity
     {

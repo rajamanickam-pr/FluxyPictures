@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Fluxy.Data.Model.Common;
 
-namespace SampleArch.Service
+namespace Fluxy.Services.Common
 {
     public interface IEntityService<T> : IService
      where T : BaseEntity

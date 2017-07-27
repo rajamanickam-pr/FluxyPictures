@@ -1,9 +1,9 @@
 ﻿using System.Data.Entity;
 using Autofac;
-using SampleArch.Repository;
 using Fluxy.Data;
+using Fluxy.Repositories.Common;
 
-namespace SampleArch.Modules
+namespace Fluxy.Web.Modules
 {
 
 

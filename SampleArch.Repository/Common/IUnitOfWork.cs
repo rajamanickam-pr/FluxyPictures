@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleArch.Repository
+namespace Fluxy.Repositories.Common
 {
     public interface IUnitOfWork : IDisposable
     {

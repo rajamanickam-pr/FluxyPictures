@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleArch.Repository
+namespace Fluxy.Repositories.Common
 {
     /// <summary>
     /// The Entity Framework implementation of IUnitOfWork

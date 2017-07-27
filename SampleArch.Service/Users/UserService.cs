@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleArch.Service.Users
+namespace Fluxy.Services.Users
 {
     public class UserService: IUserService
     {

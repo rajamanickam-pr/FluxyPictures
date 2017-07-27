@@ -1,8 +1,9 @@
 ﻿using System.Data.Entity;
 using System.Linq;
 using Fluxy.Data.EntityModels.Common;
+using Fluxy.Repositories.Common;
 
-namespace SampleArch.Repository
+namespace Fluxy.Repositories.Countries
 {
     public class CountryRepository : GenericRepository<Country>, ICountryRepository
     {

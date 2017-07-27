@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 
-namespace SampleArch.Repository
+namespace Fluxy.Repositories.Common
 {
     public abstract class GenericRepository<T> : IGenericRepository<T>
        where T : BaseEntity

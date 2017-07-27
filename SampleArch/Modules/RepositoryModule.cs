@@ -5,13 +5,13 @@ using System.Reflection;
 using System.Web;
 using Autofac;
 
-namespace SampleArch.Modules
+namespace Fluxy.Web.Modules
 {
     public class RepositoryModule : Autofac.Module
     {
         protected override void Load(ContainerBuilder builder)
         {
-            builder.RegisterAssemblyTypes(Assembly.Load("SampleArch.Repository"))
+            builder.RegisterAssemblyTypes(Assembly.Load("Fluxy.Repositories"))
                    .Where(t => t.Name.EndsWith("Repository"))
                    .AsImplementedInterfaces()
                   .InstancePerLifetimeScope();

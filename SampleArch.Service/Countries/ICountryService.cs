@@ -1,6 +1,7 @@
 ﻿using Fluxy.Data.EntityModels.Common;
+using Fluxy.Services.Common;
 
-namespace SampleArch.Service
+namespace Fluxy.Services.Countries
 {
     public interface ICountryService : IEntityService<Country>
     {

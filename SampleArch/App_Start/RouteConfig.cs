@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace SampleArch
+namespace Fluxy.Web
 {
     public class RouteConfig
     {
@@ -16,7 +16,8 @@ namespace SampleArch
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Country", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Country", action = "Index", id = UrlParameter.Optional },
+                namespaces:new[]{"Fluxy.Web.Controllers"}
             );
         }
     }

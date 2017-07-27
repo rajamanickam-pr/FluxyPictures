@@ -1,8 +1,12 @@
-﻿using System.Web.Mvc;
-using SampleArch.Service;
-using Fluxy.Data.EntityModels.Common;
+﻿using Fluxy.Data.EntityModels.Common;
+using Fluxy.Services.Countries;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
 
-namespace SampleArch.Controllers
+namespace Fluxy.Web.Controllers
 {
     public class CountryController : Controller
     {
@@ -25,7 +29,7 @@ namespace SampleArch.Controllers
         // GET: /Country/Details/5
         public ActionResult Details(int id)
         {
-            
+
 
             return View();
         }
@@ -57,7 +61,7 @@ namespace SampleArch.Controllers
         //
         // GET: /Country/Edit/5
         public ActionResult Edit(long id)
-        {            
+        {
             Country country = _CountryService.GetById(id);
             if (country == null)
             {
