@@ -1,0 +1,65 @@
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\obj\Debug\SampleArch.csprojResolveAssemblyReference.cache
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\EntityFramework.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\EntityFramework.SqlServer.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\Microsoft.Web.Infrastructure.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Model.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Service.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Helpers.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Mvc.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Razor.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.Deployment.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.Razor.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Repository.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Model.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Service.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\EntityFramework.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\EntityFramework.SqlServer.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Razor.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.Deployment.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Webpages.Razor.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Helpers.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\System.Web.Mvc.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\SampleArch.Repository.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\obj\Debug\SampleArch.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\obj\Debug\SampleArch.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\Autofac.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\Autofac.Integration.Mvc.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\Autofac.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch\bin\Autofac.Integration.Mvc.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.dll.config
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Autofac.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Autofac.Integration.Mvc.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\EntityFramework.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\EntityFramework.SqlServer.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.Repository.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.Service.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Helpers.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Mvc.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Razor.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.Razor.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.Repository.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\SampleArch.Service.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Autofac.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Autofac.Integration.Mvc.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\EntityFramework.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\EntityFramework.SqlServer.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Helpers.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Mvc.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.Razor.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\System.Web.WebPages.Razor.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\obj\Debug\SampleArch.csprojResolveAssemblyReference.cache
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\obj\Debug\SampleArch.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\obj\Debug\SampleArch.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Fluxy.Data.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch\bin\Fluxy.Data.pdb

@@ -1,0 +1,28 @@
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Service.dll.config
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Service.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Service.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\EntityFramework.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\EntityFramework.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\obj\Debug\SampleArch.Service.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\obj\Debug\SampleArch.Service.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\obj\Debug\SampleArch.Service.csprojResolveAssemblyReference.cache
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Model.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Repository.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Model.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Service\bin\Debug\SampleArch.Repository.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\SampleArch.Service.dll.config
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\SampleArch.Service.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\SampleArch.Service.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\EntityFramework.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\SampleArch.Repository.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\SampleArch.Repository.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\EntityFramework.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\obj\Debug\SampleArch.Service.csprojResolveAssemblyReference.cache
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\obj\Debug\SampleArch.Service.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\obj\Debug\SampleArch.Service.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\Fluxy.Data.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Service\bin\Debug\Fluxy.Data.pdb

@@ -1,0 +1,10 @@
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\Fluxy.Data.dll.config
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\Fluxy.Data.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\Fluxy.Data.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\Fluxy.Data.csprojResolveAssemblyReference.cache
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\Fluxy.Data.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\Fluxy.Data.pdb

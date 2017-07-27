@@ -1,0 +1,20 @@
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\SampleArch.Model.dll.config
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\SampleArch.Model.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\SampleArch.Model.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\EntityFramework.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\EntityFramework.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\obj\Debug\SampleArch.Model.dll
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\obj\Debug\SampleArch.Model.pdb
+E:\Project SA\Arch\SampleArch\SampleArch\SampleArch.Model\obj\Debug\SampleArch.Model.csprojResolveAssemblyReference.cache
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\SampleArch.Model.dll.config
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\SampleArch.Model.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\SampleArch.Model.pdb
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\SampleArch.Model.csprojResolveAssemblyReference.cache
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\SampleArch.Model.dll
+C:\Users\rajamanickam\Downloads\GenericRepoDemo\SampleArch.Model\obj\Debug\SampleArch.Model.pdb
