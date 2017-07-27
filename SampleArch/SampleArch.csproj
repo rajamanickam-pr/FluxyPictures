@@ -131,6 +131,7 @@
     <Compile Include="Modules\RepositoryModule.cs" />
     <Compile Include="Modules\ServiceModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wrappers\SessionManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />

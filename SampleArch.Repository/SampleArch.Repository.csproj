@@ -49,8 +49,8 @@
     <Compile Include="Common\GenericRepository.cs" />
     <Compile Include="Common\IGenericRepository.cs" />
     <Compile Include="Common\IUnitOfWork.cs" />
-    <Compile Include="CountryRepository.cs" />
-    <Compile Include="ICountryRepository.cs" />
+    <Compile Include="Common\CountryRepository.cs" />
+    <Compile Include="Common\ICountryRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Common\UnitOfWork.cs" />
   </ItemGroup>
